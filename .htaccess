@@ -1,0 +1,5 @@
+AuthName "Restricted Area"
+AuthType Basic
+AuthUserFile /home/vol14_1/epizy.com/epiz_28447730/htdocs/.htpasswd
+AuthGroupFile /dev/null
+require valid-user
